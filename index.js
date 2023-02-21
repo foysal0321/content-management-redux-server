@@ -84,6 +84,3 @@ app.listen(port, ()=>{
     console.log(`server running ${port}`);
 })
 
-
-//content-redux
-// DtcGfJdg6Mcl0kiV
